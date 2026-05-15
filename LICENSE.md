@@ -1,4 +1,4 @@
-# 
+# premium perpetual trading bot Module | API-integration + grid-trading is the best perpetual trading bot, featuring API-integration and grid-trading. Smart, fast, and optimized for
 
 
 
